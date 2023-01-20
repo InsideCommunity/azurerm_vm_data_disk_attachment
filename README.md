@@ -1,4 +1,4 @@
-# TF_azurerm_vm_data_disk_attachment
+# Azurerm_vm_data_disk_attachment
 
 Attach A Managed Disk and A Virtual Machine on Azure using a dedicated Terraform module. 
 
